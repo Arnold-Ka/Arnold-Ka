@@ -5,7 +5,8 @@
 
 ### 🌟 About Me
 - 🎓 Computer Science student (3rd year) at **École Supérieure d’Informatique (ESI)**  
-- 💻 Currently learning: **Django**, **Flutter**, **PostgreSQL**  
+- 💻 Skilled in **Java (Spring Boot)**, **C Programming**, and **XML**  
+- 🌐 Also learning and building projects with **Django**, **Flutter**, and **PostgreSQL**  
 - 🚀 Projects:  
   - 📘 [EsiOverflow](#) – A collaborative forum inspired by Stack Overflow and WhatsApp  
   - 🎓 [eCEP](#) – An interactive educational app to prepare for the primary school exam (CEP)  
@@ -17,7 +18,14 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,flutter,ts,react,html,css,git,linux" />
+  <!-- Core Languages -->
+  <img src="https://skillicons.dev/icons?i=java,spring,c,python" />
+  <!-- Web & Mobile -->
+  <img src="https://skillicons.dev/icons?i=django,flutter,ts,react,html,css" />
+  <!-- Databases & Others -->
+  <img src="https://skillicons.dev/icons?i=postgres,git,linux" />
+  <!-- XML (custom icon since skillicons doesn't provide one) -->
+  <img src="https://img.shields.io/badge/XML-orange?logo=xml&logoColor=white" />
 </p>
 
 ---
