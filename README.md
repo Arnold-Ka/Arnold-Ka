@@ -167,10 +167,10 @@ I'm always excited to collaborate on:
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/arnold-karambiri">
+  <a href="https://linkedin.com/in/hackers01">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:arnold@example.com">
+  <a href="mailto:arnoldkarambiri293@gmail.com">
     <img src="https://img.shields.io/badge/Send_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
