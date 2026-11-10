@@ -23,6 +23,9 @@ jobs:
 
       - name: Draw the cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        # Its own commit / push fails on this repository even with AUTO_PUSH off: the cards are
+        # already drawn on disk at that point, so the failure is ignored and the next step pushes them.
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN || secrets.GITHUB_TOKEN }}
         with:
