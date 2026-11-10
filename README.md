@@ -2,7 +2,7 @@
 
 # Arnold Karambiri
 
-**Full-stack developer · Computer Science student at ESI, Burkina Faso**
+**Full-stack developer · Licence (Bachelor's) in Computer Science, ESI Burkina Faso**
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1400&color=6366F1&center=true&vCenter=true&width=560&lines=I+build+software+for+West+African+realities;Mobile+Money%2C+low+bandwidth%2C+French+first;Kotlin+%C2%B7+Spring+Boot+%C2%B7+Next.js+%C2%B7+Flutter" alt="What I build" />
 
@@ -14,7 +14,7 @@
 
 ## About
 
-- 3rd-year Computer Science student at **École Supérieure d'Informatique (ESI)**, Burkina Faso
+- Full-stack developer, **Licence (Bachelor's) in Computer Science** from the **École Supérieure d'Informatique (ESI)**, Burkina Faso
 - I design backends that hold up in production: modular monoliths, event-driven flows, money that never moves twice
 - I care about the people at the other end: slow networks, phone-first users, Mobile Money instead of cards
 
@@ -47,8 +47,25 @@ Building **Freelancia**, a freelance marketplace for West Africa:
 
 ## Activity
 
+<!-- Cards generated every night in this profile repository by .github/workflows/profile-cards.yml
+     (github-profile-summary-cards): no external server that can go down. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arnold-Ka&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=8b949e" alt="GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="100%" />
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+    <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most used languages" width="49%" />
+  </picture>
+</p>
+<p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=Arnold-Ka&hide_border=true&background=00000000&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="Streak" />
 </p>
 
@@ -59,6 +76,6 @@ System design · Distributed systems and observability · Cloud and Kubernetes �
 ---
 
 <p align="center">
-  Open to internships and collaborations on <b>EdTech</b>, <b>fintech for Africa</b> and <b>open source</b>.<br />
+  Open to opportunities and collaborations on <b>EdTech</b>, <b>fintech for Africa</b> and <b>open source</b>.<br />
   <a href="mailto:arnoldkarambiri293@gmail.com">Write to me</a> · <a href="https://linkedin.com/in/hackers01">LinkedIn</a>
 </p>
