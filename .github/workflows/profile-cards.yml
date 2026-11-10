@@ -1,0 +1,25 @@
+# To copy into the profile repository Arnold-Ka/Arnold-Ka as .github/workflows/profile-cards.yml.
+# Every night it draws the statistics cards (SVG) into profile-summary-card-output/ of that
+# repository, which the README shows: no public server to be down or rate-limited.
+# Private repositories: add a personal token (scope "repo") as the secret PROFILE_CARDS_TOKEN,
+# otherwise only public activity is counted.
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
