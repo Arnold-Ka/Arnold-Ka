@@ -3,7 +3,7 @@
 # Arnold Karambiri
 
 **Software Developer · Machine Learning & Distributed Systems**<br />
-IT Developer at Orange Burkina Faso · Licence (B.Sc.) in Computer Science, ESI
+Licence (B.Sc.) in Computer Science, ESI Burkina Faso
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arnold--dev.com-1d3f6e?style=flat-square)](https://arnold-dev.com)
 [![Blog](https://img.shields.io/badge/Blog-arnold--dev.online-1d3f6e?style=flat-square)](https://arnold-dev.online/en/)
