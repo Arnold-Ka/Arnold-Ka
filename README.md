@@ -36,7 +36,7 @@ Can financial distress at U.S. listed companies be flagged early from public dat
 
 `Python` `PyTorch` `SHAP` `FastAPI` `PostgreSQL`
 
-### [Freelancia](https://github.com/Arnold-Ka/freelancia) · [site](https://freelancia.arnold-dev.com)
+### [Freelancia](https://freelancia.arnold-dev.com) · pre-production, code private
 
 How can freelance payments be made trustworthy in West Africa, where Mobile Money dominates and disputes are costly?
 
